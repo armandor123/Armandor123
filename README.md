@@ -17,5 +17,19 @@
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) 
 
+### 📈 GitHub Stats, 🔥 Streak & 🧑‍💻 Linguagens Mais Usadas
 
-![Armandor123 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodasilva&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; padding: 10px;">
+    ![Armandor123's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandor123&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical&hide=prs)
+  </div>
+  <!-- GitHub Streak -->
+  <div style="flex: 1; padding: 10px;">
+    ![Armandor123's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandor123&theme=radical)
+  </div>
+  <!-- Top Languages -->
+  <div style="flex: 1; padding: 10px;">
+    ![Armandor123's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&theme=radical)
+  </div>
+</div>
