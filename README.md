@@ -27,3 +27,14 @@
 ### 🔥 GitHub Streak
 
 ![Armando GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandor123&theme=radical)
+
+
+
+
+div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; padding: 10px;">
+    ![Armandor123's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandor123&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical&hide=prs)
+  </div>
+  <!-- GitHub Streak -->
+  <div style="flex: 1; padding: 10px;">
