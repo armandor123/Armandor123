@@ -6,7 +6,7 @@
 
 
 - 🔭 Atualmente trabalho na area de gestão predial em buscar de migrar de carreira. 
-- 🌱  Estudante de Analise e desenvolvimento de sisetma.
+- 🌱  Estudante de Analise e Desenvolvimento de Sisetma.
 - ⚡ Focando em linguagem java na trilha de Dev Alura.
 - ### 📖 O que estou estudando atualmente:
 - **Arquitetura de Software**
