@@ -1,7 +1,8 @@
 ## Olá, meu nome é Armando Rodrigues
 
 [![Linkedin Badge](https://img.shields.io/badge/Armando%20da%20Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armando-almeida-4831701bb/)](https://www.linkedin.com/in/armando-almeida-4831701bb/)
-[![Gmail Badge](https://img.shields.io/badge/-armando.r123%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armando.r123@gmail.com)](mailto:armando.r123@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-armando.r123%40hotmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:armando.r123@hotmail.com)](mailto:armando.r123@hotmail.com)
+
 
 
 
