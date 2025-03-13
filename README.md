@@ -22,8 +22,6 @@
 ![João's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&theme=radical)
 
 
-![Armandor123 GitHub stats][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔥 GitHub Streak
 
 ![Armando GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandor123&theme=radical)
