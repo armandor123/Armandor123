@@ -11,7 +11,7 @@
 - ### 📖 O que estou estudando atualmente:
 - **MODELAGEM DE SOFTWARE**
 - **PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS**
-- **Algoritmos e Estruturas de Dados**
+- **ALGORITIMO E ESTRUTURAS DE DADOS**
 - **PIPELINE DE DADOS**
 - **BANCOS DE DADOS**
 
