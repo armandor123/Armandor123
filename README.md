@@ -6,12 +6,14 @@
 
 
 - 🔭 Atualmente trabalho na area de gestão predial em buscar de migrar de carreira. 
-- 🌱  Estudante de Analise e Desenvolvimento de Sisetma.
-- ⚡ Focando em linguagem java na trilha de Dev Alura.
+- 🌱  Estudante de Ciência da computação.
+- ⚡ Foco em Engenharia de Dados.
 - ### 📖 O que estou estudando atualmente:
-- **Arquitetura de Software**
-- **Desenvolvimento de APIs com Spring Boot**
+- **MODELAGEM DE SOFTWARE**
+- **PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS**
 - **Algoritmos e Estruturas de Dados**
+- **PIPELINE DE DADOS**
+- **BANCOS DE DADOS**
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white) 
@@ -19,7 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ### 🧑‍💻 Linguagens mais usadas
 
-![João's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&theme=radical)
+![Armando's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&theme=radical)
 
 
 ### 🔥 GitHub Streak
