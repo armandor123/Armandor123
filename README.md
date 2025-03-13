@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) 
-
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ### 🧑‍💻 Linguagens mais usadas
 
 ![João's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&theme=radical)
