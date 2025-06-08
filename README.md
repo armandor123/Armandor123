@@ -15,9 +15,9 @@
 - ### 📖 O que estou estudando atualmente:             
 - **Python, bibliotecas como Pandas, NumPy**
 - **Experiência em visualização de dados com Power BI**
-- **ALGORITIMO E ESTRUTURAS DE DADOS**
-- **PIPELINE DE DADOS**
-- **BANCOS DE DADOS**
+- **Algoritimo e Estrutrura de Dados**
+- **Pipeline de Dados**
+- **Banco de Dados**
 - **Familiaridade com bancos de dados relacionais e não-relacionais**
 - **Boas práticas em limpeza e preparação de dados**
 
