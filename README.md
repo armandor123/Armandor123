@@ -1,33 +1,30 @@
-## Olá, meu nome é Armando Rodrigues
+Sobre Mim
+Estudante de Ciência da Computação no Centro Universitário das Américas (FAM), em transição de carreira da gestão predial para o desenvolvimento de software. Meu objetivo é construir aplicações robustas, escaláveis e eficientes, aplicando os princípios de Clean Code e Arquitetura de Software.
 
 [![Linkedin Badge](https://img.shields.io/badge/Armando%20da%20Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armando-almeida-4831701bb/)](https://www.linkedin.com/in/armando-almeida-4831701bb/)
 [![Hotmail Badge](https://img.shields.io/badge/-armando.r123%40hotmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:armando.r123@hotmail.com)](mailto:armando.r123@hotmail.com)
 
 
 
+🛠️ Stack Tecnológica & Ferramentas
+Linguagens: Java (Foco em Backend), Python, SQL.
 
-- 🔭 Atualmente trabalho na area de gestão predial em buscar de migrar de carreira. 
-- 📚  Estudante de Ciência da computação.
-- **Universidade Anhembi Morumbi**
+Frameworks: Spring Boot, Spring Data JPA, Spring Security.
 
-  
-- 🎲 Foco em  Dados.
-- ### 📖 O que estou estudando atualmente:             
-- **Python, bibliotecas como Pandas, NumPy**
-- **Experiência em visualização de dados com Power BI**
-- **Algoritimo e Estrutrura de Dados**
-- **Pipeline de Dados**
-- **Banco de Dados**
-- **Familiaridade com bancos de dados relacionais e não-relacionais**
-- **Boas práticas em limpeza e preparação de dados**
+Bancos de Dados: MySQL, PostgreSQL (Relacionais) e MongoDB (NoSQL).
 
-- 🤝 Qualidades Comportamentais
--**Raciocínio analítico e pensamento crítico**
--**Capacidade de traduzir dados em insights acionáveis**
--**Curiosidade para explorar padrões e hipóteses**
--**Boa comunicação para apresentar dados a públicos não técnicos**
--**Colaboração em times multidisciplinares**
--**Compromisso com melhoria contínua e aprendizado constante**
+DevOps & Ferramentas: Git, GitHub, Docker, Postman.
+
+Metodologias: Scrum, Kanban, TDD (Test-Driven Development).
+
+📚 O que estou desenvolvendo/estudando:Backend Engineering: Construção de APIs RESTful utilizando Java e Spring Boot.Algoritmos e Estrutura de Dados: Foco em otimização de performance e complexidade de código ($Big O$).Arquitetura de Sistemas: Design Patterns, Microserviços e comunicação assíncrona.Qualidade de Software: Testes unitários e de integração para sistemas resilientes.*
+
+🧠 Soft Skills (Engenharia)
+Raciocínio Analítico: Resolução de problemas complexos de lógica.
+
+Tradução de Requisitos: Capacidade de transformar necessidades de negócio em especificações técnicas.
+
+Colaboração: Experiência com times multidisciplinares e documentação técnica clara.
 
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white) 
