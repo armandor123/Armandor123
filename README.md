@@ -32,7 +32,7 @@ Colaboração: Experiência com times multidisciplinares e documentação técni
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ### 🧑‍💻 Linguagens mais usadas
 
-![Armando's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandor123&layout=compact&theme=radical)
+![Armando's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=armandor123&layout=compact&theme=radical)
 
 
 ### 🔥 GitHub Streak
