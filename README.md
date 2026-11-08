@@ -1,4 +1,6 @@
 
+
+ 
 Estudante de Ciência da Computação no Centro Universitário das Américas (FAM), em transição de carreira da gestão predial para o desenvolvimento de software. Meu objetivo é construir aplicações robustas, escaláveis e eficientes, aplicando os princípios de Clean Code e Arquitetura de Software.
 
 [![Linkedin Badge](https://img.shields.io/badge/Armando%20da%20Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armando-almeida-4831701bb/)](https://www.linkedin.com/in/armando-almeida-4831701bb/)
