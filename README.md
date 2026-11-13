@@ -1,45 +1,60 @@
-Estudante de Ciência da Computação no Centro Universitário das Américas (FAM), em transição de carreira da gestão predial para o desenvolvimento de software. Meu objetivo é construir aplicações robustas, escaláveis e eficientes, aplicando os princípios de Clean Code e Arquitetura de Software.
+# Olá, eu sou o Armando Rodrigues 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/Armando%20da%20Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armando-almeida-4831701bb/)](https://www.linkedin.com/in/armando-almeida-4831701bb/)
-[![Hotmail Badge](https://img.shields.io/badge/-armando.r123%40hotmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:armando.r123@hotmail.com)](mailto:armando.r123@hotmail.com)
+**Estudante de Ciência da Computação | Desenvolvimento Backend · Dados · Inteligência Artificial**
 
+Estou em transição de carreira da gestão predial para a tecnologia. Na FAM — Centro Universitário das Américas, estudo Ciência da Computação e aplico o que aprendo em projetos acadêmicos, pessoais e em equipe.
 
+Minha experiência profissional me aproximou de problemas que quero ajudar a resolver com software: processos manuais, informações dispersas e decisões que dependem de dados bem organizados. É desse contato com o dia a dia que surgem muitas das minhas ideias de projetos.
 
-🛠️ Stack Tecnológica & Ferramentas
-Linguagens: Java (Foco em Backend), Python, SQL.
+Atualmente, meu foco é desenvolver APIs com **Java e Spring Boot**, trabalhar com **Python e SQL** e explorar a integração de **IA a aplicações**.
 
-Frameworks: Spring Boot, Spring Data JPA, Spring Security.
+[LinkedIn](https://www.linkedin.com/in/armando-almeida-4831701bb/) · [E-mail](mailto:armando.r123@hotmail.com)
 
-Bancos de Dados: MySQL, PostgreSQL (Relacionais) e MongoDB (NoSQL).
+---
 
-DevOps & Ferramentas: Git, GitHub, Docker, Postman.
+## 🚀 Projetos em destaque
 
-Metodologias: Scrum, Kanban, TDD (Test-Driven Development).
+### [Terra Firma](https://github.com/armandor123/terra-firma)
+Projeto desenvolvido em equipe para o **Reboot the Earth 2026**, hackathon no qual fui **finalista**.
 
-📚 O que estou desenvolvendo/estudando:Backend Engineering: Construção de APIs RESTful utilizando Java e Spring Boot.Algoritmos e Estrutura de Dados: Foco em otimização de performance e complexidade de código ($Big O$).Arquitetura de Sistemas: Design Patterns, Microserviços e comunicação assíncrona.Qualidade de Software: Testes unitários e de integração para sistemas resilientes.*
+A proposta é apoiar pequenos produtores e cooperativas no acompanhamento de ocorrências de fogo e queimadas, reunindo fotografias, localização e dados ambientais, com uso de IA para apoiar a análise.
 
-🧠 Soft Skills (Engenharia)
-Raciocínio Analítico: Resolução de problemas complexos de lógica.
+O projeto é um MVP em desenvolvimento e reúne desafios de backend, integração de APIs, dados geográficos e inteligência artificial.
 
-Tradução de Requisitos: Capacidade de transformar necessidades de negócio em especificações técnicas.
+**Tecnologias e fontes do projeto:** Python, FastAPI, PostgreSQL/PostGIS, Docker, NASA FIRMS e Open-Meteo.
 
-Colaboração: Experiência com times multidisciplinares e documentação técnica clara.
+### [CondoSys](https://github.com/armandor123/Projeto_CondoSys_CONTEEX)
+Projeto acadêmico de gestão de condomínios que conecta minha experiência profissional aos estudos de desenvolvimento de software.
 
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-### 🧑‍💻 Linguagens mais usadas
+A primeira versão foi construída em **Java e Swing**, com foco no controle de visitantes e encomendas. Na evolução para o **CondoSys 2.0**, trabalho com a equipe na ampliação da solução para a web, com API e banco de dados.
 
-![Armando's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=armandor123&layout=compact&theme=radical)
+**Tecnologias da evolução em estudo e desenvolvimento:** Java, Spring Boot, PostgreSQL e Docker.
 
+---
 
-### 🔥 GitHub Streak
+## 🛠️ Tecnologias que utilizo nos estudos e projetos
 
-![Armando GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandor123&theme=radical)
+| Área | Tecnologias |
+| --- | --- |
+| Linguagens | Java, Python e SQL |
+| Backend | Spring Boot, Spring Data JPA, Spring Security e FastAPI |
+| Bancos de dados | PostgreSQL, MySQL e MongoDB |
+| Análise de dados | Pandas, NumPy e Power BI |
+| Ferramentas | Git, GitHub, Docker, Postman e Linux |
+| Testes | JUnit e Mockito |
 
+## 📚 O que estou aprofundando
 
+- Desenvolvimento de APIs REST, autenticação e persistência de dados.
+- Testes automatizados, organização de código e arquitetura de software.
+- Engenharia de dados e fundamentos de computação em nuvem.
+- Integração de modelos de IA, engenharia de prompts e criação de agentes.
+- Lógica de programação, algoritmos e estruturas de dados.
 
+## 🤝 O que trago da minha trajetória
 
+A gestão predial me ensinou a lidar com demandas de diferentes pessoas, acompanhar problemas até a resolução e organizar informações para apoiar decisões. Levo essa experiência para o desenvolvimento, buscando entender a necessidade de quem vai usar a solução e colaborar com a equipe.
 
-  
+**Busco oportunidades de estágio em desenvolvimento de software, dados ou IA**, nas quais eu possa contribuir com projetos reais e continuar evoluindo tecnicamente.
+
+Vamos conversar? [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/armando-almeida-4831701bb/).
